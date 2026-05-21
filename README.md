@@ -1,4 +1,4 @@
-# EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
+<img width="1917" height="1015" alt="Screenshot 2026-05-15 110525" src="https://github.com/user-attachments/assets/1c8b379f-fde7-4eb5-a181-05930c52bed8" /># EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
 
 ## Aim: 
 
@@ -120,7 +120,19 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 ## OUTPUT 
 
+<img width="462" height="541" alt="Screenshot 2026-05-15 110959" src="https://github.com/user-attachments/assets/05693f38-6ef0-4067-8999-58425672b0a2" />
 
+<img width="1917" height="1015" alt="Screenshot 2026-05-15 110525" src="https://github.com/user-attachments/assets/d847f33e-d5c1-4038-ade8-8b37df935778" />
+
+<img width="1917" height="927" alt="Screenshot 2026-05-15 110724" src="https://github.com/user-attachments/assets/05ed621a-9d2f-4fd4-82ce-b0385478ebf5" />
+
+<img width="1918" height="930" alt="Screenshot 2026-05-15 110745" src="https://github.com/user-attachments/assets/86d06113-2848-4cb6-a8c7-b78aa2d4e95a" />
+
+<img width="1918" height="930" alt="Screenshot 2026-05-15 110758" src="https://github.com/user-attachments/assets/ac587a84-30a7-4348-abd4-bc9a602e3ecc" />
+
+<img width="1918" height="927" alt="Screenshot 2026-05-15 110918" src="https://github.com/user-attachments/assets/afdc70cb-b0ec-48a1-bfb9-e130814db09a" />
+
+<img width="1918" height="927" alt="Screenshot 2026-05-15 110941" src="https://github.com/user-attachments/assets/4604b8d9-e8d7-4533-815d-26b681c5c7b8" />
 
 
 ## Result: 
